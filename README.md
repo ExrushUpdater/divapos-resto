@@ -9,12 +9,11 @@ Kelola customer / pelanggan
 
 Akses Login setiap karyawan
 
+Laporan penjualan lengkap dan cepat
+
 
 ## Download Aplikasi Resto
 https://github.com/ExrushUpdater/divapos-resto/releases/latest
-
-
-Laporan penjualan lengkap dan cepat
 
 ## KELOLA PRODUK DENGAN MUDAH
 
